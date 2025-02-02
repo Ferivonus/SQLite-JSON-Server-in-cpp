@@ -42,8 +42,8 @@ curl -X POST http://localhost:8080/query \
 {
     "status": "success",
     "data": [
-        {"id": 1, "name": "Alice"},
-        {"id": 2, "name": "Bob"}
+        {"id": 1, "name": "Orkun"},
+        {"id": 2, "name": "Bey"}
     ]
 }
 ```
